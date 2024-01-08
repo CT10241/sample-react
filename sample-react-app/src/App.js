@@ -1,5 +1,5 @@
 import './App.css';
-import Row from './components/Row';
+import Row from './components/Row/Row';
 
 function App() {
   return (
